@@ -33,7 +33,7 @@ Tags: README
 ## 在Local端的運行步驟
 1、開啟IntelliJ，依序點選File→New→Project from Version Control。
 
-2、在URL欄位貼上：[https://github.com/ShengRuYang/AppleTree-backend.git。](https://github.com/ShengRuYang/AppleTree-backend.git%E3%80%82)
+2、在URL欄位貼上：[https://github.com/ShengRuYang/AppleTree-backend.git](https://github.com/ShengRuYang/AppleTree-backend.git)。
       即可將此repository的內容(電商網站的『後端』程式)clone到Local端。
 
 3、在IntelliJ中點選「Run 'MalltestApplication'」，即可運行此專案的『後端』程式。
